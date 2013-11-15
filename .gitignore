@@ -50,3 +50,6 @@ cherrymusic/site.log
 # Sphinx builds
 doc/sphinx/_build
 
+# IntelliJ metafiles
+.idea
+*.iml
